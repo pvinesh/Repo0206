@@ -185,3 +185,19 @@ mv .d1 d1
 ls
 clear
 exit
+clear
+ls
+ls -lt
+ls-l
+ls -l
+ls -la
+touch f3
+ls
+rm f3
+ls
+ls -l
+ls -lt
+clear
+whoami
+su root
+sudo su root
