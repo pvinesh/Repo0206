@@ -268,3 +268,126 @@ pwd
 sudo su root
 clear
 sudo su root
+clear
+ls
+ls -la
+clear
+git log
+git status
+git log --oneline
+clear
+git branch child
+git checkout child
+ls
+pwd
+git checkout master
+git checkout child
+vat f20
+vi f20
+ls
+rm f22
+ls
+cd d1
+ls
+re or d2
+rm -r d2
+ls
+cd ..
+ls
+pwd
+git checkout master
+git checkout child
+ls
+git checkout master
+git log --oneline
+rm child
+vi f11
+ls
+git checkout child
+ls
+git checkout master
+ls
+git add ..
+git commit -m "ff"
+git log ]
+git log --oneline
+ls
+git status
+git add ..
+git commit -m "er"
+git status
+git add f11 f20
+git commit -m "er"
+git log --oneline
+clear
+git checkout child
+clear
+touch f23
+rm f23
+ls
+git log --oneline
+git branch
+git checkout master
+git merge child
+git branch test
+git merge test
+git log --oneline
+clear
+git init
+clear
+ls
+rm tatus
+ls
+clear
+git log --oneline
+git checkout test
+git rebase master
+git checkout master
+clear
+git log --oneline
+git checkout child
+git rebase master
+git checkout master
+clear
+git log --oneline
+git rebase -i HEAD~4
+clear
+git status
+git add .
+git status
+git commit -m "rty"
+clear
+git rebase -i HEAD~4
+clear
+ls
+rm f10 f11
+ls
+rm f20 f5 f6 f7 f9
+ls
+rm -r d1
+ls
+clear
+touch f1 f2
+git add .
+git commit -m "a"
+git log --oneline
+exit
+clear
+exit
+pwd
+cd desktop/git
+exit
+ls
+rm f1 f2
+git checkout master
+exit
+clear
+pwd
+exit
+ls
+pwd
+exir
+exit
+clear
+ssh -i "Jun01.pem" ubuntu@ec2-3-14-87-182.us-east-2.compute.amazonaws.com
+clear
