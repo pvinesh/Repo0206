@@ -201,3 +201,70 @@ clear
 whoami
 su root
 sudo su root
+date
+cal
+ls -l
+chmod 7 f5
+ls -l
+chmod 667 f5
+ls -l
+chmod 664 f5
+ls -l
+cat > f10
+sudo apt-get update
+sudo apt-get install tree
+ls -l
+ls -l f7
+clear
+sudo apt-get update
+ls
+tree d1
+cd d1/
+mkdir d2
+cd d2/
+mkdir d3
+cd d3/
+mkdir d4
+pwd
+cd ..
+cd..
+cd ..
+pwd
+clear
+ls
+ls -l f10
+vi f10
+vi f9
+git --version
+git config --global --list
+clear
+git init
+git status
+git add .
+git commit -m "q"
+git status
+git log
+git log --oneline
+git status
+vi f22
+ls
+git status
+git log --oneline
+clear
+git init
+git config --global --list
+git status
+git add .
+git commit -m "wq"
+git status
+git log --oneline
+clear
+git log
+git log --oneline
+clear
+exit
+whoami
+pwd
+sudo su root
+clear
+sudo su root
